@@ -1,3 +1,9 @@
+<style>
+  html {
+    scroll-behavior: smooth; /* smooth scrolling */
+  }
+</style>
+
 Light - A program to control backlights (and other hardware lights) in GNU/Linux
 ==================================================
 
