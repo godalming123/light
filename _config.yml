@@ -2,7 +2,10 @@ title: Light
 description: GNU/Linux application to control backlights
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-minimal
+
+remote_theme: "godalming123/minimal"
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 gems:
   - jekyll-mentions
